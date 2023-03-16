@@ -18,7 +18,7 @@ You can see the description of the implementation method in the following file:
 
 
 ## Result
-![App Screenshot](https://raw.githubusercontent.com/kiananvari/MNRSR-for-wildlife-image/main/Results/1.png)
+![App Screenshot](https://github.com/kiananvari/perceptron-learning-rule/raw/main/Result.png)
 
 
 
