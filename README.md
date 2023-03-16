@@ -1,2 +1,23 @@
-# perceptron-learning-rule
-Implementation of Perceptron learning rule
+
+# Project Title
+
+Python Implementation of Perceptron learning rule
+
+## Features
+
+- Iris Species Dataset
+- Perceptron Learning Rule
+- Neural Networks
+- Python
+- Numpy
+- Sklearn
+## Documentation
+
+You can see the description of the implementation method in the following file:  
+[Click Here](https://linktodocumentation)
+
+
+## Result
+
+
+
