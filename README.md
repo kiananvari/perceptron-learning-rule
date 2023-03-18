@@ -14,7 +14,7 @@ Python Implementation of Perceptron learning rule
 ## Documentation
 
 You can see the description of the implementation method in the following file:  
-[Click Here](https://linktodocumentation)
+[Click Here](https://github.com/kiananvari/perceptron-learning-rule/raw/main/Documentation.pdf)
 
 
 ## Result
